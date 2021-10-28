@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Poppins, sans-serif;
+}
+
+h1{
+    font-size: 3rem;
+    font-weight: 700;
+}
+
+h2{
+    font-weight: 700;
+    font-size: 2rem;
+}
+
+h5{
+    font-weight: 600;
+    font-size: 1.4rem;
+}
+
+h6{
+    color: #407bff;
+    font-weight: 700;
+}
+
+
+/* navbar */
+
+#title{
+    background-color: #fff;
+}
+
+.navbar-brand{
+    font-size: 1.4rem;
+    font-weight: 600;
+}
+
+.brand{
+    color: #407bff;
+}
+
+.navbar{
+    background: #fff;
+    padding: 1rem 8.7rem;
+}
+
+#navbarSupportedContent > ul > li:nth-child(n) > a:hover{
+    color: #407bff;
+}
+
+.hero{
+    padding: 1rem 8rem;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+/* fasilitas */
+
+#fasil{
+    background-color: #407bff;
+    text-align: center;
+    color: #fff;
+    padding: 7% 15%;
+}
+
+/* dokter-kami */
+#carousel-doc{
+    background-color: #407bff;
+    padding: 4% 15%;
+}
+
+#carousel-doc img{
+    width: 50%;
+    border-radius: 100%;
+    position: absolute;
+    margin: 20px 75px;
+}
+
+.img-text{
+    width: 100%;
+    height: 300px;
+    display: block;
+    text-align: center;
+    padding: 40% 5%;
+    background: #fff;
+    color: #000;
+    border-radius: 15px;
+}
+
+.img-text h2{
+    font-size: 1.5rem;
+    letter-spacing: 1px;
+    margin-top: 70px;
+}
+
+
+.single-box{
+    position: relative;
+    margin-bottom: 30px;
+}
+
+.bt-up{
+    position: relative;
+    top: 20px;
+}
+
+.set-text{
+    width:24.75rem;
+    margin:0 auto 20px;
+}
+/* card-jadwal */
+
+#buat{
+    padding: 7% 15%;
+    margin: 50px 0;
+}
+
+.card{
+    padding: 4% 5%;
+    background: #fff;
+    text-align: center;
+    display: block;
+}
+
+
+.card-header{
+    background: #407bff;
+    color: #fff;
+}
+
+/* end */
+#end{
+    background-color: #407bff;
+    text-align: center;
+    color: #fff;
+    padding: 7% 15%;
+}
+
+#footer{
+    text-align: center;
+    padding: 4% 15%;
+}
+
+.social-icon{
+    margin: 20px 10px;
+}
